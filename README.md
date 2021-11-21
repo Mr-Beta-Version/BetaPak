@@ -16,8 +16,8 @@ $ pip2 install mechanize
 
 $ pkg install git
 
-$
+$ git clone https://github.com/Mr-Beta-Version/BetaPak
 
-$ cd Betapak
+$ cd BetaPak
 
 $ python2 Betapak.py
